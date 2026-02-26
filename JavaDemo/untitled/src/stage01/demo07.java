@@ -1,3 +1,5 @@
+package stage01;
+
 public class demo07 {
     /*
     4.判断一个整数是否是水仙花数，所谓水仙花数

@@ -1,4 +1,4 @@
-//2.实现判断一个整数，属于哪个范围：大于0；小于0；等于0
+package stage01;//2.实现判断一个整数，属于哪个范围：大于0；小于0；等于0
 import java.util.Scanner;
 
 public class demo05 {

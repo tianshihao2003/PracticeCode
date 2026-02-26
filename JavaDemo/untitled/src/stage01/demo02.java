@@ -1,3 +1,5 @@
+package stage01;
+
 import java.util.Scanner;
 
 public class demo02 {

@@ -1,3 +1,5 @@
+package stage01;
+
 import java.util.Scanner;
 
 // 3.判断一个年份是否为闰年
